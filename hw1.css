@@ -44,6 +44,9 @@
   width: 481px;
   padding-bottom: 44px;
 }
+.letter{
+    font-weight: 700; 
+}
 
 .top__button {
   border-radius: 30px;
